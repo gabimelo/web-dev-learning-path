@@ -11,6 +11,55 @@ This is a draft for now, and I hope to add more material and improve it soon. I 
 
 ## Here is how I would structure the learning path:
 
-1. 
-  *  
-  
+1. Basic programming
+    * it would be good to have some basic algorithms and data structures background knowledge
+    * some of these things might work better and more easily on UNIX systems, so if you're running in Windows, maybe it would be nice to get a Linux dist installed
+    * having a good development environment is good. Basic text editors, as Sublime and Atom are very popular for web dev. There are some plugins that help you customize them for the specific languages that you're developing in. I would recommend looking up some tips for that (e.g. Google something like "Sublime set up for JavaScript development")
+    * I believe having good programming practices is very beneficial, and would recommend this book: Clean Code: A Handbook of Agile Software Craftsmanship, by Robert C. Martin
+    * having some understanding of good software development project management might help. I would recommend getting to know Agile and Scrum concepts
+        * https://www.scrum.as/academy.php
+        * software that might help:
+            * Jira
+            * Trello
+
+
+2. What is a website
+
+3. Front and back ends
+
+4. Git & basic command line
+    * https://www.codeschool.com/courses/try-git
+    * http://rogerdudler.github.io/git-guide/
+    * https://www.atlassian.com/git/tutorials/using-branches
+    * workflows/team collaboration
+        * https://www.atlassian.com/git/tutorials/comparing-workflows
+
+5. HTML
+    * https://www.w3schools.com/html/default.asp
+
+6. CSS
+    * https://www.w3schools.com/css/default.asp
+    * http://getbootstrap.com/
+    * SASS
+        * http://sass-lang.com/guide
+
+7. JavaScript
+    * https://www.w3schools.com/js/default.asp
+    * https://www.w3schools.com/js/default.asp
+    * single page apps
+    * frameworks
+        * packages/external libs
+
+8. Back end
+
+9. infrastructure
+    * what is devops
+    * main tools
+        * Docker
+
+10. Where to go from here:
+    * focus on front end frameworks
+    * back end 
+    * UI/UX
+    * databases
+    * Mobile/react native 
