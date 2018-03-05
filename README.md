@@ -28,6 +28,9 @@ This is a draft for now, and I hope to add more material and improve it soon. I 
 3. Front and back ends
 
 4. Git & basic command line
+
+Git is a software for software versioning control. It allows for very easy collaboration on code between multiple people, and an easy way to restore your code to previous versions.
+
     * https://www.codeschool.com/courses/try-git
     * http://rogerdudler.github.io/git-guide/
     * https://www.atlassian.com/git/tutorials/using-branches
@@ -35,16 +38,21 @@ This is a draft for now, and I hope to add more material and improve it soon. I 
         * https://www.atlassian.com/git/tutorials/comparing-workflows
 
 5. HTML
+
+This is the basis for web pages. The link below show all of the available HTML tags, and their explanation.
+
     * https://www.w3schools.com/html/default.asp
 
 6. CSS
+
+CSS is the language for styling web pages.
+
     * https://www.w3schools.com/css/default.asp
-    * http://getbootstrap.com/
-    * SASS
+    * Bootstrap allows for a fast way of designing responsive websites (the ones that show up nicely on all screen sizes, both desktop and mobile) http://getbootstrap.com/
+    * SASS is a way of splitting your CSS in multiple files, and it also adds some nice functionalities. Might be worth giving it a look.
         * http://sass-lang.com/guide
 
 7. JavaScript
-    * https://www.w3schools.com/js/default.asp
     * https://www.w3schools.com/js/default.asp
     * single page apps
     * frameworks
