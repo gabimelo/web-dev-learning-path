@@ -28,8 +28,7 @@ I'm under the impression that lately, especially given the rise of popular JavaS
 3. Front and back ends
 
 4. Git & basic command line
-
-Git is a software for software versioning control. It allows for very easy collaboration on code between multiple people, and an easy way to restore your code to previous versions.
+   * Git is a software for software versioning control. It allows for very easy collaboration on code between multiple people, and an easy way to restore your code to previous versions.
     * https://www.codeschool.com/courses/try-git
     * http://rogerdudler.github.io/git-guide/
     * https://www.atlassian.com/git/tutorials/using-branches
@@ -37,34 +36,30 @@ Git is a software for software versioning control. It allows for very easy colla
         * https://www.atlassian.com/git/tutorials/comparing-workflows
 
 5. HTML
-
-This is the basis for web pages. The link below show all of the available HTML tags, and their explanation.
-    * https://www.w3schools.com/html/default.asp
+   * This is the basis for web pages. The link below show all of the available HTML tags, and their explanation.
+   * https://www.w3schools.com/html/default.asp
 
 6. CSS
-
-CSS is the language for styling web pages.
+   * CSS is the language for styling web pages.
     * https://www.w3schools.com/css/default.asp
     * Bootstrap allows for a fast way of designing responsive websites (the ones that show up nicely on all screen sizes, both desktop and mobile) http://getbootstrap.com/
     * SASS is a way of splitting your CSS in multiple files, and it also adds some nice functionalities. Might be worth giving it a look.
         * http://sass-lang.com/guide
 
 7. JavaScript
-
-JavaScript is a program language that browsers are able to execute. It allows for everything, from animating content on the browser to running some logic that your website requires.
-    * W3 reference: https://www.w3schools.com/js/default.asp
-JavaScript has also made possible the concept of single page apps. 
-    *
-Another thing that has become popular recently are some frameworks and libraries, that allow for the development of single page apps. These frameworks and libraries have changed a lot how front end web development works, and provides for a course of their own. Here are some of the most popular front end frameworks/libraries (as of March 2018):
-   * AngularJS https://angularjs.org/
-   * React https://reactjs.org/
-   * Vue.js https://vuejs.org/
+   * JavaScript is a program language that browsers are able to execute. It allows for everything, from animating content on the browser to running some logic that your website requires.
+      * W3 reference: https://www.w3schools.com/js/default.asp
+   * JavaScript has also made possible the concept of single page apps. 
+      *
+   * Another thing that has become popular recently are some frameworks and libraries, that allow for the development of single page apps. These frameworks and libraries have changed a lot how front end web development works, and provides for a course of their own. Here are some of the most popular front end frameworks/libraries (as of March 2018):
+      * AngularJS https://angularjs.org/
+      * React https://reactjs.org/
+      * Vue.js https://vuejs.org/
 
 8. Back end
 
 9. Infrastructure
-
-To run your web servers, and web apps, you need some infrasctructure behind it.
+   * To run your web servers, and web apps, you need some infrasctructure behind it.
     * what is devops
     * main tools
         * Docker
