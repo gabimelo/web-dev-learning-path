@@ -7,7 +7,7 @@ The *opinionated* in the description of the repo is to show that this is just th
 
 I'm under the impression that lately, especially given the rise of popular JavaScript frameworks, many people might be skipping the traditional HTML and CSS basics - and even the basic understanding of how a website actually works - and jumping straight to some framework or library. That might work for some people (and be sure to jump to that if that's what you're looking for) but I do believe a solid knowledge on the basis of web development might be beneficial to your web dev skills, so I added material on those basic stuff as well.
 
-This is a draft for now, and I hope to add more material and improve it soon. I also hope to write some articles soon about some of these topics, and will link them here whenever they're available.
+**This is a draft for now**, and I hope to add more material and improve it soon. I also hope to write some articles soon about some of these topics, and will link them here whenever they're available.
 
 ## Here is how I would structure the learning path:
 
@@ -30,37 +30,41 @@ This is a draft for now, and I hope to add more material and improve it soon. I 
 4. Git & basic command line
 
 Git is a software for software versioning control. It allows for very easy collaboration on code between multiple people, and an easy way to restore your code to previous versions.
-
     * https://www.codeschool.com/courses/try-git
     * http://rogerdudler.github.io/git-guide/
     * https://www.atlassian.com/git/tutorials/using-branches
-    * workflows/team collaboration
+    * Some existing workflows for Git:
         * https://www.atlassian.com/git/tutorials/comparing-workflows
 
 5. HTML
 
 This is the basis for web pages. The link below show all of the available HTML tags, and their explanation.
-
     * https://www.w3schools.com/html/default.asp
 
 6. CSS
 
 CSS is the language for styling web pages.
-
     * https://www.w3schools.com/css/default.asp
     * Bootstrap allows for a fast way of designing responsive websites (the ones that show up nicely on all screen sizes, both desktop and mobile) http://getbootstrap.com/
     * SASS is a way of splitting your CSS in multiple files, and it also adds some nice functionalities. Might be worth giving it a look.
         * http://sass-lang.com/guide
 
 7. JavaScript
-    * https://www.w3schools.com/js/default.asp
-    * single page apps
-    * frameworks
-        * packages/external libs
+
+JavaScript is a program language that browsers are able to execute. It allows for everything, from animating content on the browser to running some logic that your website requires.
+    * W3 reference: https://www.w3schools.com/js/default.asp
+JavaScript has also made possible the concept of single page apps. 
+    *
+Another thing that has become popular recently are some frameworks and libraries, that allow for the development of single page apps. These frameworks and libraries have changed a lot how front end web development works, and provides for a course of their own. Here are some of the most popular front end frameworks/libraries (as of March 2018):
+   * AngularJS https://angularjs.org/
+   * React https://reactjs.org/
+   * Vue.js https://vuejs.org/
 
 8. Back end
 
-9. infrastructure
+9. Infrastructure
+
+To run your web servers, and web apps, you need some infrasctructure behind it.
     * what is devops
     * main tools
         * Docker
