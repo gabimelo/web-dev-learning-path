@@ -66,7 +66,7 @@ You might read some more into these, and see if you're interested in learning bo
       * W3 reference: https://www.w3schools.com/js/default.asp
   * JavaScript has also made possible the concept of single page apps. 
       * I go into them, very superficially, on the [above mentioned article](https://medium.com/@gabimelo/what-are-apps-how-do-i-develop-one-8fde8535896d))
-  * Another thing that has become popular recently are some frameworks and libraries, that allow for the development of single page apps. These frameworks and libraries have changed a lot how front end web development works, and provides for a course of their own. There are plenty of tutorials and online courses on them. You might also have a look at articles explaining the differences between them, to be able to pick one (but I don't haev any resources to link to on this matter :( ) Here are some of the most popular front end frameworks/libraries (as of March 2018):
+  * Another thing that has become popular recently are some frameworks and libraries, that allow for the development of single page apps. These frameworks and libraries have changed a lot how front end web development works, and provides for a course of their own. There are plenty of tutorials and online courses on them. You might also have a look at articles explaining the differences between them, to be able to pick one (but I don't have any resources to link to on this matter :( ) Here are some of the most popular front end frameworks/libraries (as of March 2018):
       * AngularJS https://angularjs.org/
       * React https://reactjs.org/
       * Vue.js https://vuejs.org/
