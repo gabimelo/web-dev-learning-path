@@ -73,7 +73,9 @@ You might read some more into these, and see if you're interested in learning bo
 
 8. Back end
 
-The back end is where most of the business logic runs, as I mentioned above. It is the server side. It has been changing a lot lately, with architecures such as the "serverless", which use resources of cloud providers to run back end logic, without needing an actual back end server for your app. However, traditionally, it runs as a server side application. Different languages can be used for it, and each of these have frameworks/libraries for implementing app servers. The most common languages for back end web apps are:
+The back end is where most of the business logic runs, as I mentioned above. It is the "server side". It's where the connection to the database happens.
+
+It has been changing a lot lately, with architecures such as the "serverless", which use resources of cloud providers to run back end logic, without needing an actual back end server for your app. However, traditionally, the back end runs as a server side application. Different languages can be used for it, and each of these have frameworks/libraries for implementing app servers. The most common languages for back end web apps are:
 
   * [Node.js](https://nodejs.org/en/) (JavaScript)
   * Python, with frameworks such as [Flask](http://flask.pocoo.org/) or [Django](https://www.djangoproject.com/)
