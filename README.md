@@ -91,10 +91,10 @@ Although these languages might have pros and cons between them for web apps, I t
 
 This is just the main things that I think are good for every developer to have at least som ebasic understanding of. However, there are many different things that you can choose to focus on:
 
-    * Front end and front end frameworks
-    * Back end/API development 
-    * Infrastructure and DevOps
-    * UI/UX for the front end
-    * PWAs
+* Front end and front end frameworks
+* Back end/API development 
+* Infrastructure and DevOps
+* UI/UX for the front end
+* PWAs
 
 This is a very big topic, so of course there are many ways of looking at it and learning it. If you have suggestions, feel free to open issues and/or PRs!
