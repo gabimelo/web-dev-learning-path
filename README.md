@@ -25,6 +25,7 @@ For some of these topics, I just linked some resources. On others, I gave a very
 
 
 2. What is a website
+
 Seems trivial, but with the advance of the web, it has become a more complicated architecture than it used to be. Specially, with the advances of "web apps". What is a web app? What is a website? 
 
 It is good to be able to really understand these terms and to have some understanding of the information flow that are involved to have a website on the browser.
@@ -32,6 +33,7 @@ It is good to be able to really understand these terms and to have some understa
 [I wrote an article that might help with this](https://medium.com/@gabimelo/what-are-apps-how-do-i-develop-one-8fde8535896d), but am also open to accept suggestions on resources for this topic. I haven't added anything on information flow between browser and server on my article, so something on that would be nice - although I might write something on this sometime as well.
 
 3. Front and back ends
+
 There are two main sides to web development, that are always mentioned, and that is important to understand. But they are quite simple:
 
 The front end is what you actually see. It's the presentation of content, styling and animation that is run on the browser.
@@ -86,6 +88,7 @@ I have an impression that Java is less used, but maybe this is not true when it 
 Although these languages might have pros and cons between them for web apps, I think a good criteria for choosing the first one to start learning could be just your familiarity with these languages. Once you understand how server side apps are developed, it's easy going from one of these languages/frameworks to another one, if needed. My only recommendation is, if you choose Python, to go with Flask. Given that most websites nowadays work as single page apps, your server side ends up being pretty much just the API with which you'll communicate from the front end, and I think Flask is best suited for this than Django, as it is more lightweight (and consequently also easier to learn).
 
 9. Where to go from here:
+
 This is just the main things that I think are good for every developer to have at least som ebasic understanding of. However, there are many different things that you can choose to focus on:
     * Front end and front end frameworks
     * Back end/API development 
